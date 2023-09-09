@@ -48,8 +48,8 @@ I am currently working on several projects which will be added to my portfolio s
 - **تقنيات الويب:** ويب سوكيت (WebSocket)، ويب سكرابينج (Puppeteer)، ويب درايفر (Python)
 - **مهارات أخرى:** تعلم سريع، تفكير مبتكر، توقعات أجور منخفضة
 ### التعليم
-- طالب جامعي حالياً 
--حاصل على شهادة freecodecamp فى الباك اند
+- طالب جامعي حالياً
+- حاصل على شهادة freecodecamp فى الباك اند
 <img src="https://media.discordapp.net/attachments/855518791362412569/1149998062463361034/image.png?width=603&height=402" align="center"/>
 ### خبرة العمل
 - خبرة عمل لمدة عامين عامل حر
