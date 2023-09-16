@@ -30,7 +30,7 @@ I am a young and creative programmer with a strong passion for web development a
 - **Discord:** tarek_ali
 
 ### Projects
-I am currently working on several projects which will be added to my portfolio soon. Please stay tuned for updates.
+- https://apply-manger.web.app/
 
 ## Arabic
 
@@ -53,7 +53,7 @@ I am currently working on several projects which will be added to my portfolio s
 - حاصل على شهادة freecodecamp فى الباك اند
 <img src="https://media.discordapp.net/attachments/855518791362412569/1149998062463361034/image.png?width=603&height=402" align="center"/>
 ### خبرة العمل
-- خبرة عمل لمدة عامين عامل حر
+- خبرة عمل لمدة عامين 
 
 ### معلومات الاتصال
 - **الهاتف:** +201115489186، +201005029085
@@ -62,4 +62,4 @@ I am currently working on several projects which will be added to my portfolio s
 - **ديسكورد:** tarek_ali
 
 ### المشاريع
-أنا حالياً أعمل على العديد من المشاريع وسيتم إضافتها إلى سيرتي الذاتية قريباً. يرجى البقاء متابعين للحصول على التحديثات.
+- https://apply-manger.web.app/
