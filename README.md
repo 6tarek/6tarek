@@ -22,7 +22,8 @@ I am a young and creative programmer with a strong passion for web development a
 <img src="https://media.discordapp.net/attachments/855518791362412569/1149998062463361034/image.png?width=603&height=402" align="center"/>
 
 ### Work Experience
-- Two years of work experience (freelancer)
+- Two years of work
+- 
 ### Contact Information
 - **Phone:** +201115489186, +201005029085
 - **Email:** tarek.mahmod13579@gmail.com
