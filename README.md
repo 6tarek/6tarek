@@ -31,7 +31,8 @@ I am a young and creative programmer with a strong passion for web development a
 - **Discord:** tarek_ali
 
 ### Projects
-- https://apply-manger.web.app/
+- (discord apply manger)[https://apply-manger.web.app]
+- [my web](https://my-web-88e69.web.app/)
 
 ## Arabic
 
@@ -63,4 +64,5 @@ I am a young and creative programmer with a strong passion for web development a
 - **ديسكورد:** tarek_ali
 
 ### المشاريع
-- https://apply-manger.web.app/
+- (مدير تقديمات الخاصة بالديسكورد)[https://apply-manger.web.app]
+- [موقع](https://my-web-88e69.web.app/)
