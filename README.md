@@ -1,68 +1,73 @@
-# Tarek Mahmoud Ali
 
-## English
+---
 
-- **Age:** 17
-- **Country:** Egypt
-- **Languages:** Arabic (Native), English (Fluent)
+**طارق محمود على يوسف**  
+**البريد الإلكتروني:** tarek.mahmod13579@gmail.com  
+**رقم الهاتف:** +20 111 548 9186  
+**الموقع:** المنيا، مصر
 
-### Objective
-I am a young and creative programmer with a strong passion for web development and backend applications. I have experience in full-stack web development, API development, backend/frontend development, web scraping, and using web drivers. I am proficient in several programming languages and libraries, and I am eager to contribute my skills and knowledge to exciting projects.
+---
 
-### Skills
-- **Programming Languages:** JavaScript (JS), TypeScript (TS), HTML, CSS, Python (Py)
-- **Web Development:** React, Nest, Next.js, Express, Node.js
-- **Databases:** MongoDB, MySQL
-- **Web Technologies:** WebSocket (WS), Web Scraping (Puppeteer), WebDriver (Python)
-- **Other Skills:** Fast learner, Creative thinker, Low wage expectations
+### **الملف الشخصي**
+
+مطور برمجيات شغوف بخبرة قوية في تطوير التطبيقات الخلفية والأمامية باستخدام مجموعة واسعة من التقنيات والأدوات الحديثة. أتميز بقدرتي على حل المشكلات وتقديم حلول مبتكرة، مع شغف دائم لتعلم التقنيات الجديدة وتطبيقها بشكل فعّال. أطمح للمساهمة في مشاريع تكنولوجية مبتكرة تساهم في تحسين تجربة المستخدم وتلبية احتياجات السوق.
+
+---
+
+### **التعليم**
+
+- **شهادة في تصميم الويب المتجاوب**  
+  [FreeCodeCamp](https://www.freecodecamp.org/certification/tarek_ali/responsive-web-design)  
+  تم إكمال البرنامج التدريبي الذي يغطي مبادئ التصميم المتجاوب واستخدام HTML و CSS لإنشاء مواقع ويب تتكيف مع مختلف أحجام الشاشات.
   
-### Education
-- Currently a university student
-- He holds a certificate freecodecamp in backend
-<img src="https://media.discordapp.net/attachments/855518791362412569/1149998062463361034/image.png?width=603&height=402" align="center"/>
+- **شهادة في مكتبات تطوير الواجهات الأمامية**  
+  [FreeCodeCamp](https://www.freecodecamp.org/certification/tarek_ali/front-end-development-libraries)  
+  اكتساب الخبرة في استخدام مكتبات JavaScript مثل React لإنشاء واجهات مستخدم تفاعلية وعالية الأداء.
 
-### Work Experience
-- Two years of work
-- 
-### Contact Information
-- **Phone:** +201115489186, +201005029085
-- **Email:** tarek.mahmod13579@gmail.com
-- **WhatsApp:** +201115489186
-- **Discord:** tarek_ali
+- **شهادة في تطوير الواجهات الخلفية وواجهات البرمجة**  
+  [FreeCodeCamp](https://www.freecodecamp.org/certification/tarek_ali/back-end-development-and-apis)  
+  تعلم تقنيات تطوير الخوادم باستخدام Node.js و Express، بالإضافة إلى بناء واجهات برمجة التطبيقات (APIs) واستكشاف إدارة قواعد البيانات.
 
-### Projects
-- (discord apply manger)[https://apply-manger.web.app]
-- [my web](https://my-web-88e69.web.app/)
+- **شهادة في خوارزميات وهياكل بيانات JavaScript**  
+  [FreeCodeCamp](https://www.freecodecamp.org/certification/tarek_ali/javascript-algorithms-and-data-structures)  
+  فهم عميق للخوارزميات وهياكل البيانات، مما يساهم في تطوير برمجيات أكثر كفاءة وسرعة.
 
-## Arabic
+---
 
-- **العمر:** 17 سنة
-- **البلد:** مصر
-- **اللغات:** العربية (لغتي الأم), الإنجليزية (اجادة)
+### **المهارات التقنية**
 
-### الهدف
-أنا مبرمج شاب ومبدع لدي شغف قوي بتطوير الويب وتطبيقات الخلفية. لدي خبرة في تطوير الويب الكامل، وتطوير واجهة برمجة التطبيقات (APIs)، وتطوير الجزء الخلفي والجزء الأمامي للمواقع، وكذلك في التعامل مع الويب سكرابينج واستخدام مكتبات وبرامج الويب درايفر. أنا ماهر في عدة لغات برمجة ومكتبات، وأنا حريص على المساهمة بمهاراتي ومعرفتي في مشاريع مثيرة.
+- **لغات البرمجة:** TypeScript, JavaScript, Python, HTML, CSS
+- **أطر العمل والمكتبات:** Node.js, Deno, Bun, Express, NestJS, Next.js, React
+- **قواعد البيانات:** MySQL, MongoDB
+- **أدوات وأطر إضافية:** RESTful APIs, Git, Agile Methodologies
 
-### المهارات
-- **لغات البرمجة:** جافا سكريبت (JS)، تايب سكريبت (TS)، HTML، CSS، بيثون (Py)
-- **تطوير الويب:** رياكت (React)، نست (Nest)، نيكست (Next.js)، اكسبريس (Express)، نود جي اس (Node.js)
-- **قواعد البيانات:** مونغو دي بي (MongoDB)، ماي إس كيو إل (MySQL)
-- **تقنيات الويب:** ويب سوكيت (WebSocket)، ويب سكرابينج (Puppeteer)، ويب درايفر (Python)
-- **مهارات أخرى:** تعلم سريع، تفكير مبتكر، توقعات أجور منخفضة
+---
 
-### التعليم
-- طالب جامعي حالياً
-- حاصل على شهادة freecodecamp فى الباك اند
-<img src="https://media.discordapp.net/attachments/855518791362412569/1149998062463361034/image.png?width=603&height=402" align="center"/>
-### خبرة العمل
-- خبرة عمل لمدة عامين 
+### **المهارات الشخصية**
 
-### معلومات الاتصال
-- **الهاتف:** +201115489186، +201005029085
-- **البريد الإلكتروني:** tarek.mahmod13579@gmail.com
-- **واتساب:** +201115489186
-- **ديسكورد:** tarek_ali
+- **التواصل الفعّال:** مهارات تواصل ممتازة تمكنني من العمل بفاعلية داخل الفريق ومع العملاء.
+- **الإبداع والتفكير النقدي:** لدي القدرة على تقديم حلول مبتكرة وتحليل المشكلات بطرق غير تقليدية.
+- **التعلم السريع:** شغوف بتعلم التقنيات الجديدة بسرعة وتطبيقها في المشاريع المختلفة.
+- **إدارة الوقت:** قادر على تنظيم وإدارة المهام بفاعلية لضمان تسليم المشاريع في الوقت المحدد.
 
-### المشاريع
-- (مدير تقديمات الخاصة بالديسكورد)[https://apply-manger.web.app]
-- [موقع](https://my-web-88e69.web.app/)
+---
+
+### **اللغات**
+
+- **العربية:** اللغة الأم
+- **الإنجليزية:** مستوى جيد جدًا، قدرة على التواصل والكتابة بكفاءة.
+
+---
+
+### **الاهتمامات الشخصية**
+
+- **تطوير البرمجيات مفتوحة المصدر:** المساهمة في مشاريع مفتوحة المصدر لتطوير المهارات والمشاركة في المجتمع التقني.
+- **التعلم المستمر:** متابعة أحدث الاتجاهات في التكنولوجيا وتعلم مهارات جديدة.
+
+---
+
+### **مراجع**
+
+- تتوفر عند الطلب.
+
+---
